@@ -4,3 +4,5 @@ Do
 Git has a mutable index called stage.
 Git tracks changes. 
 The 2 times changes.
+
+dev version do modify.
