@@ -9,4 +9,5 @@ dev version do modify.
 Creating a new branch is quick & simple.
 Creating a new branch is quick And simple.
 
---no-ff 
+--no-ff
+modify readme.txt and add hello.py
