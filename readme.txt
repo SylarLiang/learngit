@@ -12,3 +12,5 @@ Creating a new branch is quick And simple.
 --no-ff 
 
 fix issue-101
+Git is free software.
+
