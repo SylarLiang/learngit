@@ -8,3 +8,5 @@ The 2 times changes.
 dev version do modify.
 Creating a new branch is quick & simple.
 Creating a new branch is quick And simple.
+
+--no-ff 
